@@ -83,4 +83,4 @@ npm run dev
 
 ## Acknowledgements
 
-[CodewithAntonio](https://www.youtube.com/@codewithantonio)
+[designwithsanjay](https://designwithsanjay.site/)
